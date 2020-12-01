@@ -9,7 +9,7 @@ If you've been curious about managing local Python environments for Data Analysi
 - Activate and deactivate your Conda virtual environment
 - Export your setting for sharing and collaboration with your team
 
-In this tutorial, we'll install a local Python Data Science environment from scratch. I will use my new Macbook Pro 13" 2020, which uses the `zsh` shell by default. Windows users should follow Anaconda's installation instructions, but everything else should be the same(ie. if you use Powershell). Let's get started!
+In this tutorial, we'll install a local Python Data Science environment from scratch. I will use my new Macbook Pro 13" 2020, which uses the `zsh` shell by default. Windows users should follow Anaconda's installation instructions, but everything else should be the same(ie. if you use something like Powershell). Let's get started!
 
 ## So why not use pip and be done with it?
 
