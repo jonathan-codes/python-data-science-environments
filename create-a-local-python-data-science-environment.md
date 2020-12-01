@@ -133,4 +133,4 @@ jupyter kernelspec uninstall myenv
 
 > Note: you may need to restart the kernel to use updated packages.
 
-I hope you enjoyed this tutorial and feel excited about learning Python. Keep going and, as always, happy analyzing! 🙌🏼
+I hope you enjoyed this tutorial and feel excited about learning Python. If you have any suggestions or mistakes to report, feel free to crate a ticket [HERE](https://github.com/jonathan-barrios/python-data-science-environments/issues/new/choose). Keep going and, and as always, happy analyzing! 🙌🏼
